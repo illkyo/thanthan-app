@@ -29,3 +29,23 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 This project uses [File-based Routing](https://docs.expo.dev/router/introduction).
+
+## Features
+### Home
+![alt text](https://github.com/illkyo/thanthan-app/blob/main/pics/home.jpg)
+
+### Explore
+![alt text](https://github.com/illkyo/thanthan-app/blob/main/pics/explore.jpg)
+
+### Profile
+![alt text](https://github.com/illkyo/thanthan-app/blob/main/pics/profile.jpg)
+
+### Property Details
+![alt text](https://github.com/illkyo/thanthan-app/blob/main/pics/property-detail-1.jpg)
+![alt text](https://github.com/illkyo/thanthan-app/blob/main/pics/property-detail-2.jpg)
+![alt text](https://github.com/illkyo/thanthan-app/blob/main/pics/property-detail-3.jpg)
+![alt text](https://github.com/illkyo/thanthan-app/blob/main/pics/property-detail-4.jpg)
+
+### Create
+![alt text](https://github.com/illkyo/thanthan-app/blob/main/pics/property-create-1.jpg)
+![alt text](https://github.com/illkyo/thanthan-app/blob/main/pics/property-create-2.jpg)
